@@ -75,7 +75,7 @@ This looks kind of overwhelming, but the phrase `uninitialized constant Book`
 holds the answer: we need to define our Book class!
 
 ### Defining the Book Class
-
+def ini
 To create a new class in Ruby, we use the `class` keyword, followed by the name
 of a class starting with a capital letter. Let's define an empty `Book` class in
 `book.rb`:
